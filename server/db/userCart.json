@@ -1,0 +1,25 @@
+{
+    "contents": [
+        {
+            "quantity": 2,
+            "id_product": 457,
+            "product_name": "DRESS",
+            "price": 52,
+            "img": "./img/457.jpg"
+        },
+        {
+            "quantity": 2,
+            "id_product": 124,
+            "product_name": "JACKET",
+            "price": 52,
+            "img": "./img/124.jpg"
+        },
+        {
+            "quantity": 2,
+            "id_product": 123,
+            "product_name": "SHORTS",
+            "price": 52,
+            "img": "./img/123.jpg"
+        }
+    ]
+}

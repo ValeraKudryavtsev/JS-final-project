@@ -1,0 +1,38 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "JACKET",
+    "price": 52.00,
+    "img": "./img/124.jpg"
+  },
+  {
+    "id_product": 457,
+    "product_name": "DRESS",
+    "price": 52.00,
+    "img": "./img/457.jpg"
+  },
+  {
+    "id_product": 123,
+    "product_name": "SHORTS",
+    "price": 52.00,
+    "img": "./img/123.jpg"
+  },
+  {
+    "id_product": 456,
+    "product_name": "T-SHIRT",
+    "price": 52.00,
+    "img": "./img/456.jpg"
+  },
+  {
+    "id_product": 125,
+    "product_name": "BLOUSE",
+    "price": 52.00,
+    "img": "./img/125.jpg"
+  },
+  {
+    "id_product": 458,
+    "product_name": "SHIRT",
+    "price": 52.00,
+    "img": "./img/458.jpg"
+  }
+]
